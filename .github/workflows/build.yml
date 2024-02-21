@@ -59,8 +59,8 @@ jobs:
               
               echo "::debug::[Push file]"
               echo "${t}" >> version.txt
-              git config --global user.email "lework@yeah.net"
-              git config --global user.name "lework"
+              git config --global user.email "bchen720@gmail.com"
+              git config --global user.name "bchen528"
               git config --global --add safe.directory /github/workspace
               git add version.txt
               git commit -m "$APP $ADD_TAG (Github Actions Automatically Built in `date +"%Y-%m-%d %H:%M"`)"
