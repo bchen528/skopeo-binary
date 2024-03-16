@@ -1,6 +1,6 @@
 # skopeo-binary
 
-[![Build](https://github.com/lework/skopeo-binary/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/lework/skopeo-binary/actions/workflows/build.yml)
+[![Build](https://github.com/heroku/skopeo-binary/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/heroku/skopeo-binary/actions/workflows/build.yml)
 
 Generate [skopeo](https://github.com/containers/skopeo) binaries.
 
